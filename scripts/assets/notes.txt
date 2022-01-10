@@ -1,0 +1,12 @@
+My Application address is : 0xDe38B4EA8142829507e4e949D7d0fE6103eB55cC
+✅ Successfully deployed bundleDrop module, address: 0xa99D2e7bcDB1CbA768113F53c8f9d63D392383c9
+✅ bundleDrop metadata: {
+  metadata: {
+    name: 'RootsDAO Membership',    description: 'A DAO For African Diasporians',
+    image: 'https://cloudflare-ipfs.com/ipfs/bafkreib4knnzjcf56m3aiugozeih2by62htbrtlsc2mr3uc5jf2ntcvtj4',
+    primary_sale_recipient_address: '0x0000000000000000000000000000000000000000',
+    uri: 'ipfs://bafkreigt52ucpthqdxfbzzzmbfrd3udju3pc34bxjgrjao752fovm4muj4'
+  },
+  address: '0xa99D2e7bcDB1CbA768113F53c8f9d63D392383c9',
+  type: 11
+}
