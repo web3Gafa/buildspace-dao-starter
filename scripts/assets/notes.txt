@@ -10,3 +10,9 @@ My Application address is : 0xDe38B4EA8142829507e4e949D7d0fE6103eB55cC
   address: '0xa99D2e7bcDB1CbA768113F53c8f9d63D392383c9',
   type: 11
 }
+
+ Successfully deployed token module, address: 0xc55e54e8c89657cF1d249fBCDBE0e28532Be5ec7
+ 
+  deployed vote module, address: 0xC4291e79E4f21d7D89b94BC78d2f7BCa37DC19F1
+
+
